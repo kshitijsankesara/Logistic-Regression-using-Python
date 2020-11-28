@@ -21,4 +21,4 @@ For my workshops, I have build a couple of Logistic Regression models on an **Ad
 * Classification Report
 * AUC-ROC Curve
 
-Later, I performed **K-fold cross validation** to improve both the models.
+Later, I performed **K-fold cross validation** to improve the accuracy for both the models and find the best parameters.
